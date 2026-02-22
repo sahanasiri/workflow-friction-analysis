@@ -33,3 +33,12 @@ The dataset simulates a 7-stage operational workflow including ingestion, proces
 •	Operational optimization
 •	Structured SQL analysis
 
+## Visualization
+
+### SLA Breach Analysis
+![SLA Breach](sla_breach_analysis.png)
+
+
+### Completion Time Bottleneck
+![Completion Time](completion_time_analysis.png)
+
